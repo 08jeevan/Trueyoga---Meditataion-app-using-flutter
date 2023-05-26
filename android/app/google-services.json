@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245085086589",
+    "project_id": "dailyyoga-51afd",
+    "storage_bucket": "dailyyoga-51afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245085086589:android:b6d6cb78544468dede2214",
+        "android_client_info": {
+          "package_name": "com.fcstudio.yogaworkout.dailyyoga.yoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245085086589-ieqn7indfl6e6co9hvm22v64ehg95pmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6HUyLlDQCr5sE36oh0jbfMj0y96JowQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245085086589-ieqn7indfl6e6co9hvm22v64ehg95pmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
